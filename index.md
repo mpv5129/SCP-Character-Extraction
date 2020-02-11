@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Character Extraction
 
 You can use the [editor on GitHub](https://github.com/mpv5129/SCP-Character-Extraction/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
