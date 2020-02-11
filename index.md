@@ -1,9 +1,11 @@
 ### Instructions
+- Please Read the Story
+- Enter the number of characters in the story
+- Input chracters name and describe them
 
 
-
-### Title
-link to story: 
+### Mr. Life and Mr. Death
+link to story: [SCP-1007](http://www.scp-wiki.net/scp-1007)
 
 ```markdown
 Syntax highlighted code block
