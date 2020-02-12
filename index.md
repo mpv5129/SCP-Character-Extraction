@@ -21,12 +21,16 @@ Addendum-1: The words "Mr. Life and Mr. Death, from Little Misters ® by Dr. Won
 
 Addendum-2: The fact that its designation seemingly refers to a pair has been taken by some to mean that SCP-1007 has a counterpart that has yet to be recovered. SCP-1007 has stated that it is unaware of the existence of such a counterpart, and believes that its designation refers to the fact that it alternates between life and death. However, given that it was also unaware of the existence of several other "Misters" known to the Foundation, the existence of this hypothetical counterpart remains a possibility, and efforts are currently being made to determine its whereabouts.
 
+
 <form>
-First Name :
+Character Name :
 <input type="text" name="Fname">
 </form>
 
-
+<form>
+Character Description :
+<input type="text" name="Fname">
+</form>
 
 
 
