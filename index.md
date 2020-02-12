@@ -21,39 +21,21 @@ Addendum-1: The words "Mr. Life and Mr. Death, from Little Misters ® by Dr. Won
 
 Addendum-2: The fact that its designation seemingly refers to a pair has been taken by some to mean that SCP-1007 has a counterpart that has yet to be recovered. SCP-1007 has stated that it is unaware of the existence of such a counterpart, and believes that its designation refers to the fact that it alternates between life and death. However, given that it was also unaware of the existence of several other "Misters" known to the Foundation, the existence of this hypothetical counterpart remains a possibility, and efforts are currently being made to determine its whereabouts.
 
-### Please Name and Describe the Characters
-   Descriptions must be a minimum of 10 words
-<html lang = "en">
-  <head>
-    <title>formDemo.html</title>
-    <meta charset = "UTF-8" />
-  </head>
-  <body>
-    <h1>Form Demo</h1>
-    <form>
-      <fieldset>
-        <legend>Text input</legend>
-        <p>
-          <label>Text box</label>
-          <input type = "text"
-                 id = "myText"
-                 value = "text here" />
-        </p>
-        <p>
-          <label>Password</label>
-          <input> type = "password"
-                  id = "myPwd"
-                  value = "secret" />
-        </p>
-        <p>
-          <label>Text Area</label>
-          <textarea> id = "myTextArea"
-                  rows = "3"
-                  cols = "80">Your text here</textarea>
-        </p>
-      </fieldset>
-    </form>
-  </body>
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<p>Click the "Submit" button and the form-data will be sent to a page on the server called "/action_page.php".</p>
+
+</body>
 </html>
 
 
