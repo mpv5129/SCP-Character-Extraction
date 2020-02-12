@@ -1,7 +1,6 @@
 ## Instructions
 - Please Read the Story
-- Enter the number of characters in the story
-- Input chracters name and describe them
+- Input chracters name and describe them (characters can be objects)
 
 
 ## Mr. Life and Mr. Death
