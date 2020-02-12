@@ -6,7 +6,7 @@
 
 ## Mr. Life and Mr. Death
 link to story: [SCP-1007](http://www.scp-wiki.net/scp-1007)
-## Please Read the Following Story
+### Please Read the Following Story
 
 
 Special Containment Procedures: When inactive, SCP-1007 is to be kept in a standard coffin along with SCP-1007-1. The subject may only be activated during routine testing. As of current regulations on "Misters," SCP-1007 is to be contained in Hall 8 of Site 13.
@@ -21,11 +21,7 @@ Addendum-1: The words "Mr. Life and Mr. Death, from Little Misters ® by Dr. Won
 
 Addendum-2: The fact that its designation seemingly refers to a pair has been taken by some to mean that SCP-1007 has a counterpart that has yet to be recovered. SCP-1007 has stated that it is unaware of the existence of such a counterpart, and believes that its designation refers to the fact that it alternates between life and death. However, given that it was also unaware of the existence of several other "Misters" known to the Foundation, the existence of this hypothetical counterpart remains a possibility, and efforts are currently being made to determine its whereabouts.
 
+## Please Name and Describe the Characters
+   Descriptions Must be a minimum of 10 words
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mpv5129/SCP-Character-Extraction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
