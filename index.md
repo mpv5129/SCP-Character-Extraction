@@ -6,9 +6,8 @@
 
 ## Mr. Life and Mr. Death
 link to story: [SCP-1007](http://www.scp-wiki.net/scp-1007)
-
-```markdown
 ## Please Read the Following Story
+```markdown
 
 Special Containment Procedures: When inactive, SCP-1007 is to be kept in a standard coffin along with SCP-1007-1. The subject may only be activated during routine testing. As of current regulations on "Misters," SCP-1007 is to be contained in Hall 8 of Site 13.
 
